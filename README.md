@@ -19,6 +19,7 @@ Repositories which are currently available are as follows:
       * https://github.com/florentbrient/ECS-Constraint
    * Sensitivities of low cloud cover to estimated inversion strength and sea surface temperature (Qu et al., 2014) https://github.com/xinqu2016/SST-and-EIS-slopes
    * Lower Tropospheric Mixing Indices (Sherwood et al., 2014) https://github.com/scs46/LTMI-mixing
+   * Snow albedo Feedback (Hall and Qu, 2006) https://github.com/xinqu2016/snow-albedo-feedback
 
 To access the code versions used in the CFMIP diagnostics codes paper, please see List_versions.pdf, in which links to all of the  GMD-documented diagnostics are listed.
 
